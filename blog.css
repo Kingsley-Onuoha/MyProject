@@ -1,0 +1,38 @@
+body {
+  background-color: rgba(148, 14, 14, 0.836);
+  align-content: center;
+}
+.Page-Container1 {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-content: center;
+  margin: 76px;
+  margin-top: 40px;
+  padding-left: 45px;
+  padding-right: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  column-gap: 60px;
+}
+h3 {
+  color: rgba(173, 13, 13, 0.836);
+}
+.Header {
+  color: white;
+  text-align: center;
+}
+.MainH {
+  align-content: center;
+  justify-content: center;
+}
+a {
+  color: rgba(173, 13, 13, 0.836);
+}
+#ads {
+  display: grid;
+  background-color: gray;
+  grid-column: 3 / span 1;
+}
